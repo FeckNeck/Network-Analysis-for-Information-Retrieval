@@ -29,14 +29,13 @@ nav ul {
 
 nav img {
   width: 3rem;
-  transition: rotate 0.3s ease;
 }
 
 nav img:hover {
-  animation: rotate 1s ease;
+  animation: spin 1s ease;
 }
 
-@keyframes rotate {
+@keyframes spin {
   0% {
     transform: rotate(0deg);
   }
