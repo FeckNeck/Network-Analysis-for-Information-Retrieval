@@ -4,7 +4,10 @@ The main objective of this project is to develop a structured corpus analysis so
 inclusion of a small search engine to make keyword queries, new data structuring using clustering techniques and supervised data classification taking into account structure and textual information.
 
 ## Installation
-
+Clone this repository using the following command and unzip `dblp-ref-3.7z`
+```
+git clone https://github.com/FeckNeck/Network-Analysis-for-Information-Retrieval.git
+```
 Install [virtualenv](https://virtualenv.pypa.io/en/latest/)
 ```
 pip install virtualenv
@@ -22,5 +25,3 @@ Download external python libraries from *requirement.txt* file with command :
 pip install -r requirement.txt
 ```
 Run the index.ipynb
-
-Don't forget to unzip the dataset.
