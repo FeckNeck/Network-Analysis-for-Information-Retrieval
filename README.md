@@ -22,3 +22,5 @@ Download external python libraries from *requirement.txt* file with command :
 pip install -r requirement.txt
 ```
 Run the index.ipynb
+
+Don't forget to unzip the dataset.
